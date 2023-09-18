@@ -1,0 +1,1 @@
+Create a basic recipe website with a main index page with links to recipes. The purpose of this project is to learn HTML.
